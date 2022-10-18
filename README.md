@@ -11,5 +11,5 @@ In this repository I will put all the exercises with their solutions from the ww
 ## HackerRank Certificates
 
 <a href="https://github.com/SebaGPDev/HackerRank/blob/0440d2fcd58c4cdf06978121a1c8511948937e33/Skills%20Certification/JavaScript(Basic).png">
-    <img src="https://github.com/nathan-abela/HackerRank-Solutions/blob/4a929935148db493057dd3a5a88e77efcc0fd086/Badges/10_days_of_javascript_5_star.png" alt="JavaScript (Basic) Certificate/>
+    <img src="Badges/JavaScript(Basic).png" alt="JavaScript (Basic) Certificate/>
 </a>
